@@ -22,7 +22,6 @@ Open the file [Fluorescence_composite.tif](image_files/Fluorescence_composite.ti
 
 The file should automatically show below when uploaded correctly and this file is viewed on GitHub.  
 ![](image_files/Composite.jpg)  
-![Composite](https://user-images.githubusercontent.com/125923320/223241244-fe29562a-8c2f-413e-b078-608ab80ebdee.jpg)
 
 #### *Task 3:*  
 Segment the nuclei in the [22946173.tif](image_files/22946173.tif) file and Analyze/Analyze Particles with size (pixel^2) 20–500, Circularity 0.5–1, and Show Count Masks as show in the image below. (Check "Display results", "Clear results", "Summarize", and "Exclude on edges".)  
@@ -33,7 +32,8 @@ The Results output should look like this:
 Save the results as "Results.csv" and upload into the same directory where this file is. It will be used in the Python notebook below.  
 
 Also save the resultant "Count Mask" image file with the name "Count_Mask_22946173.tif" and upload into the [image_files](image_files) directory. (It should show up below once it is uploaded).  
-![](image_files/Count_Mask_22946173.tif)  
+![](image_files/Count_Mask_22946173.tif)
+(File is uploaded to image_files but is not showing up)
 
 Q4) How many particles were detected?  
 A4) 1417 
